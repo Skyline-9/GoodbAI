@@ -15,6 +15,8 @@ In loving memory of Kobe, here are some examples:
 
 >🙌 #competition https://twitter.com/devinoremiller/status/845137575970065009 …
 
+>The game of @blakegriffin32 has grown tremendously #respect
+
 **Badges will go here**
 
 [![License](https://img.shields.io/github/license/skyline-9/GoodbPy)](https://github.com/Skyline-9/GoodbPy/blob/master/LICENSE)
