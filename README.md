@@ -21,6 +21,13 @@ Once inside the project make sure to install all the dependencies (it's just TWI
 pip install -r requirements.txt
 ```
 
+#### Using setup.sh
+Once you have TWINT installed, just run setup.sh using
+```shell
+sh setup.sh
+```
+
+#### Manually
 Using CLI, you can scrape all the tweets of a specific user (basically the person you want to simulate) and save to a text file using
 ```shell
 twint -u username -o file.txt
