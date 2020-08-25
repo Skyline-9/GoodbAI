@@ -65,3 +65,8 @@ Open up the .ipynb file using Google Colab (or you can run the code locally as w
 
 ## Team
 Richard
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
