@@ -11,6 +11,10 @@ In loving memory of Kobe, here are some examples:
 
 >Congrats @demar_derozan #WIZENOUT
 
+>Bravo @DwyaneWade 🙌 #assfwd
+
+>🙌 #competition https://twitter.com/devinoremiller/status/845137575970065009 …
+
 **Badges will go here**
 
 [![License](https://img.shields.io/github/license/skyline-9/GoodbPy)](https://github.com/Skyline-9/GoodbPy/blob/master/LICENSE)
@@ -57,6 +61,7 @@ Open up the .ipynb file using Google Colab (or you can run the code locally as w
 ## Future Plans
  - Scripting the scraping and training part so all you have to do is input a username
  - Scrape from more sources (e.g. Facebook posts) so the there is more training data
+ - Maybe host Twitter Bot?
 
 ## Team
 Richard
