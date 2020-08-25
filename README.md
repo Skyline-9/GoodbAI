@@ -17,9 +17,10 @@ In loving memory of Kobe, here are some examples:
 
 >The game of @blakegriffin32 has grown tremendously #respect
 
-**Badges will go here**
+**Badges**
 
-[![License](https://img.shields.io/github/license/skyline-9/GoodbPy)](https://github.com/Skyline-9/GoodbPy/blob/master/LICENSE)
+[![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/Skyline-9/GoodbAI)![GitHub](https://img.shields.io/github/license/Skyline-9/GoodbAI)
+
 
 ---
 ### Clone
