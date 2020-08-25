@@ -2,6 +2,15 @@
 
 Using OpenAI's GPT-2 to revive someone from the past
 
+In loving memory of Kobe, here are some examples:
+>👀 @DeMar_DeRozan #LegendsLive  http://www.youtube.com/watch?v=e5E0Godoe_04
+
+>I just knew I loved watching them. Thank you @RealSkipBayless  https://twitter.com/realbigzapboy/status/7761841583bolikno8 🔥 🦅
+
+> Camp was phenomenal! Amazing people. Thank you for all the support. From the most kids to the highest, kids can't wait to see what #ThePunies can teach them. pic.twitter.com/Br8MgniLO
+
+>Congrats @demar_derozan #WIZENOUT
+
 **Badges will go here**
 
 [![License](https://img.shields.io/github/license/skyline-9/GoodbPy)](https://github.com/Skyline-9/GoodbPy/blob/master/LICENSE)
