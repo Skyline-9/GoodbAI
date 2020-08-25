@@ -1,6 +1,6 @@
 # GoodbPy
 
-Twitter bot that detects and retweets giveaways.
+Using gpt revive someone from the past
 
 **Badges will go here**
 
