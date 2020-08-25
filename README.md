@@ -14,7 +14,7 @@ Using gpt revive someone from the past
 git clone https://github.com/Skyline-9/GoodbPy.git
 ```
 
-### Setup
+### Setup (NOT NEEDED ANYMORE)
 
 Once inside the project make sure to install all the dependencies
 ```shell
@@ -32,14 +32,3 @@ pip install -r requirements.txt
 
 ## Team
 Richard
-//TO-DO Create a Table With Github Profiles
-
----
-
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 ©
