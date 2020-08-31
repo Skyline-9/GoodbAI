@@ -64,7 +64,7 @@ Open up the .ipynb file using Google Colab (or you can run the code locally as w
 ## Future Plans
  - Scripting the scraping and training part so all you have to do is input a username
  - Scrape from more sources (e.g. Facebook posts) so the there is more training data
- - Maybe host Twitter Bot?
+ - Using GANs to create fake faces of the person
 
 ## Team
 Richard
