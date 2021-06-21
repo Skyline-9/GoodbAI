@@ -1,9 +1,4 @@
 # GoodbAI
-**Badges**
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 Using OpenAI's GPT-2 to revive someone from the past
 
@@ -21,6 +16,12 @@ In loving memory of Kobe, here are some examples:
 >🙌 #competition https://twitter.com/devinoremiller/status/845137575970065009 …
 
 >The game of @blakegriffin32 has grown tremendously #respect
+
+**Badges**
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 ---
 ### Clone
