@@ -1,4 +1,9 @@
 # GoodbAI
+**Badges**
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 
 Using OpenAI's GPT-2 to revive someone from the past
 
@@ -16,11 +21,6 @@ In loving memory of Kobe, here are some examples:
 >🙌 #competition https://twitter.com/devinoremiller/status/845137575970065009 …
 
 >The game of @blakegriffin32 has grown tremendously #respect
-
-**Badges**
-
-[![Maintained](https://img.shields.io/maintenance/yes/2020)](https://github.com/Skyline-9/GoodbAI)![GitHub](https://img.shields.io/github/license/Skyline-9/GoodbAI)
-
 
 ---
 ### Clone
@@ -65,11 +65,3 @@ Open up the .ipynb file using Google Colab (or you can run the code locally as w
  - Scripting the scraping and training part so all you have to do is input a username
  - Scrape from more sources (e.g. Facebook posts) so the there is more training data
  - Using GANs to create fake faces of the person
-
-## Team
-Richard
-
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
